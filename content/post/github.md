@@ -11,8 +11,11 @@ Live Site: <http://scottcwilson.github.io>
 
 ## Tools##
 * [Hugo] (http://gohugo.io/)
+* [Aglaus Theme] (https://github.com/dim0627/hugo_theme_aglaus)
 * [ShrinkTheWeb] (http://www.shrinktheweb.com/)
 * [Markdown Pro] (http://www.markdownpro.com/)
+* [Github] (http://www.github.com/)
 
-You can see the source for this website [here](https://github.com/scottcwilson/hugosite)
+Source for this website: <https://github.com/scottcwilson/hugosite>
+
 
