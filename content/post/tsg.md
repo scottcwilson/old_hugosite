@@ -13,11 +13,11 @@ since 2006.
 
 Live Site: <http://www.thatsoftwareguy.com>
 
-## Tools ##
+## Tools
 * [Bootstrap] (http://getbootstrap.com/)
 * [Ericka Template] (https://www.behance.net/gallery/5842843/Ericka-Responsive-Bootstrap-Template)
 
-## Story ##
+## Story
 For years I had a static HTML site designed for desktops.
 In 2013, I finally updated my site to use Twitter Boostrap 3 
 so it could be easily viewed on mobile devices.  

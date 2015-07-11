@@ -9,7 +9,7 @@ This is my my Hugo-based site on Github.
 
 Live Site: <http://scottcwilson.github.io>
 
-## Tools##
+## Tools
 * [Hugo] (http://gohugo.io/)
 * [Aglaus Theme] (https://github.com/dim0627/hugo_theme_aglaus)
 * [ShrinkTheWeb] (http://www.shrinktheweb.com/)

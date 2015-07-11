@@ -10,7 +10,7 @@ This is my my collection of vintage restaurant coffee cups.
 Live Site: <http://vintagecups.com>
 
 
-## Tools##
+## Tools
 * [LAMP stack] (https://en.wikipedia.org/wiki/LAMP_(software_bundle\))
 
 

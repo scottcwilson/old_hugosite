@@ -11,7 +11,6 @@ This is the store where I sell my mods (mostly Zen Cart).
 Live Site: <http://www.thatsoftwareguy.com/store>
 
 ## Tools
-
 * [Zen Cart](http://www.zencart.com)
 * [Template B40515](http://ultimatezencart.com/)
 
