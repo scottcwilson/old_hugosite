@@ -17,5 +17,7 @@ Live Site: <http://scottcwilson.github.io>
 * [Github] (http://www.github.com/)
 
 Source for this website: <https://github.com/scottcwilson/hugosite>
-
+The Markdown description for that repo describes how I publish the blog.
+I think my technique is much easier than the one described in
+[the Hugo documentation](http://gohugo.io/tutorials/github-pages-blog/).
 
