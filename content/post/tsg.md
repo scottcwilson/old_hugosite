@@ -19,6 +19,10 @@ Live Site: <http://www.thatsoftwareguy.com>
 
 ## Story
 For years I had a static HTML site designed for desktops.
+Here's what the old site looked like: 
+
+![Old Site](http://www.thatsoftwareguy.com/img/site-graphics/old_site_thumb.png)
+
 In 2013, I finally updated my site to use Twitter Boostrap 3 
 so it could be easily viewed on mobile devices.  
 

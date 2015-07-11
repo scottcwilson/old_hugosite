@@ -1,11 +1,11 @@
 +++
 title = "My site on Github"
 type = "post"
-weight = 40
+weight = 100
 eyecatch = "github.jpeg"
 +++
 
-This is my my Hugo-based site on Github.
+This is my Hugo-based site on Github.
 
 Live Site: <http://scottcwilson.github.io>
 
