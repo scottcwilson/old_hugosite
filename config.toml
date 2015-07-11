@@ -1,0 +1,15 @@
+baseurl = "http://scottcwilson.github.io/"
+languageCode = "en-us"
+title = "Scott C Wilson"
+theme = "aglaus"
+copyright = "Scott C Wilson"
+
+[Author]
+	name = "Scott C Wilson"
+
+[params]
+	description = "My Sites"
+        dateform = "Mon, Jan 2, 2006"
+	linkedin = "https://www.linkedin.com/in/scottcwilson"
+	twitter = "https://twitter.com/scottcwilson"
+	github = "https://github.com/scottcwilson"
