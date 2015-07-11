@@ -4,8 +4,13 @@ title = "Scott C Wilson"
 theme = "aglaus"
 copyright = "Scott C Wilson"
 
-[Author]
+[author]
 	name = "Scott C Wilson"
+	linkedin = "scottcwilson"
+	twitter = "scottcwilson"
+	twitter2 = "thatsoftwareguy"
+	github = "scottcwilson"
+	facebook = "scottcwilson"
 
 [params]
 	description = "My Sites"
@@ -13,3 +18,4 @@ copyright = "Scott C Wilson"
 	linkedin = "https://www.linkedin.com/in/scottcwilson"
 	twitter = "https://twitter.com/scottcwilson"
 	github = "https://github.com/scottcwilson"
+        GravatarHash = "750b75109b76470b82336ae826483eb1"
