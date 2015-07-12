@@ -1,0 +1,14 @@
+footer.copy { 
+  background-color: white;
+  color: black;
+  padding: 0px;
+}
+footer.copy a { 
+  color: blue; 
+  text-decoration: none; 
+}
+footer.copy a:hover { 
+  color: blue; 
+  text-decoration: underline; 
+
+}
