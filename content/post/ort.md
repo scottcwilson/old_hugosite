@@ -3,6 +3,8 @@ title = "My book group website"
 type = "post"
 weight = 20
 eyecatch = "jekyll_ort.jpeg"
+lastmod = "2017-01-02"
+date = "2017-01-02"
 +++
 
 This is my book group website.  We have been reading together for 

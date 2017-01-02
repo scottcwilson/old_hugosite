@@ -18,7 +18,7 @@ to create the site.  Change directory to my-site-name.
 1. Fiddle with config.toml until you're happy.  Remember you have to restart `hugo server` each time you change configuration; the LiveReload doesn't handle this.
 1. Create a `.gitignore` and add `public` to it.
 1. Add your site to a new git repository.  For reference, mine is <https://github.com/scottcwilson/hugosite>.
-1. Run <pre>hugo</pre> to generate the final copy of your site. (I assume you have added your template to the `config.toml` file; if not, you will need to use `hugo -t your-template`.) Change directory to "public".
+1. Run <pre>hugo</pre> to generate the final copy of your site. (I assume you have added your template to the `config.toml` file; if not, you will need to use `hugo -t your-template`.) Change directory to `public`.
 1. Add this directory to a new repository, with the name your-github-name.github.io.  Again, for reference, mine is <https://github.com/scottcwilson/scottcwilson.github.io>.
 1. You're done!  Your site will be live shortly at http://your-github-name.github.io. (Mine is http://scottcwilson.github.io.)
 
