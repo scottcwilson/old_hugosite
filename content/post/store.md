@@ -12,7 +12,6 @@ Live Site: <http://www.thatsoftwareguy.com/store>
 
 ## Tools
 * [Zen Cart](http://www.zencart.com)
-* [Template B40515](http://ultimatezencart.com/)
 
 ## Story
 For years, I would distribute software manually.  I'd get a payment
