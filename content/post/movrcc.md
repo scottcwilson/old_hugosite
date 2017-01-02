@@ -3,6 +3,7 @@ title = "My coffee cups"
 type = "post"
 weight = 30
 eyecatch = "movrcc.jpeg"
+date = "2017-01-02"
 +++
 
 This is my collection of vintage restaurant coffee cups.

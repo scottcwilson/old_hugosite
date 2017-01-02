@@ -3,6 +3,7 @@ title = "My blog"
 type = "post"
 weight = 50
 eyecatch = "blog.jpeg"
+date = "2017-01-02"
 +++
 
 This is my blog. 

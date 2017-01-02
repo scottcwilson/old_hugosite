@@ -3,6 +3,7 @@ title = "This site!"
 type = "post"
 weight = 100
 eyecatch = "github.jpeg"
+date = "2017-01-02"
 +++
 
 This is my Hugo-based site on Github.

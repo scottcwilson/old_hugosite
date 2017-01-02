@@ -3,7 +3,7 @@ title = "My store"
 type = "post"
 weight = 11
 eyecatch = "store.jpeg"
-date = '2015-07-11'
+date = "2017-01-02"
 +++
 
 This is the store where I sell my mods (mostly Zen Cart).
