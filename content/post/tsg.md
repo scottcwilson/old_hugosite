@@ -32,7 +32,8 @@ Go figure.
 
 I loved the Ericka template, but like many templates, it was built 
 for small websites.  My site has almost 200 pages 
-- see [sitemap](http://www.thatsoftwareguy.com/sitemap.html) - so I really wanted to use Server Side Includes
+- see [sitemap](http://www.thatsoftwareguy.com/sitemap.html) - 
+so I really wanted to use Server Side Includes
 (SSI) and consolidate the common code. I wound up slicing the
 template up into chunks (38 partial files at the time of writing),
 and rebuilding the pages out of these partials.  
