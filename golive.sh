@@ -1,7 +1,18 @@
 #!/bin/bash
 # Modeled after http://takagi.github.io/2015/03/02/how-to-set-up/
-# Additional step - check in actual code.
 
+# Additional step - check public folder, dummy! 
+if [ ! -f public/.git/config ]
+then 
+    echo "Public folder is not a git repo"
+    echo "Should point to https://github.com/scottcwilson/scottcwilson.github.io.git"
+    echo "Remove public, then do:"
+    echo "git clone https://github.com/scottcwilson/scottcwilson.github.io.git"
+    echo "mv scottcwilson.github.io public "
+    exit 
+fi
+
+# Additional step - check in actual code.
 git add -A
 # Commit changes.
 msg="Site updates"
