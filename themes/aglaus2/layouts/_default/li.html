@@ -7,7 +7,11 @@
         {{ end }}
     </div>
     <div class="data">
-        <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ if isset .Params "tech" }}
+        ( <i>{{ .Params.tech }}</i> )
+        {{ end }}
+        </h1>
         <div class="summary">{{ .Summary }}</div>
     </div>
     <footer class="readon">

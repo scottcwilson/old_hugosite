@@ -1,5 +1,6 @@
 +++
 title = "My coffee cups"
+tech = "LAMP stack"
 type = "post"
 weight = 30
 eyecatch = "movrcc.jpeg"

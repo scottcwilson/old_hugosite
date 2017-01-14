@@ -1,5 +1,6 @@
 +++
 title = "My blog"
+tech = "Wordpress"
 type = "post"
 weight = 50
 eyecatch = "blog.jpeg"

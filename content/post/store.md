@@ -1,5 +1,6 @@
 +++
 title = "My store"
+tech = "Zen Cart"
 type = "post"
 weight = 11
 eyecatch = "store.jpeg"

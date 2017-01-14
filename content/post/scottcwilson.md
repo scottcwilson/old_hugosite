@@ -1,5 +1,6 @@
 +++
 title = "This site!"
+tech = "Hugo"
 type = "post"
 weight = 100
 eyecatch = "scottcwilson.jpeg"

@@ -1,5 +1,6 @@
 +++
 title = "My book group website"
+tech = "Jekyll"
 type = "post"
 weight = 20
 eyecatch = "jekyll_ort.jpeg"

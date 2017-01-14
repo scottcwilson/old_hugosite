@@ -1,5 +1,6 @@
 +++
 title = "My Demo Sites"
+tech = "Zen Cart and osCommerce"
 type = "post"
 weight = 11
 eyecatch = "demos.jpeg"
@@ -9,7 +10,8 @@ date = "2017-01-02"
 I have so many 
 [Zen Cart](http://www.zencart.com)
 mods that I need <s>three</s> four demo stores 
-to show them all!  
+to show them all!  I also host an osCommerce demo site because some
+of my mods have been posted to that platform.
 
 Live Site: <http://www.thatsoftwareguy2.com/>
 
