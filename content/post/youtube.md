@@ -1,5 +1,6 @@
 +++
 title = "My Videos"
+tech = "Quicktime"
 type = "post"
 weight = 60
 eyecatch = "youtube.jpeg"
