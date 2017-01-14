@@ -1,5 +1,4 @@
 @import url(//fonts.googleapis.com/css?family=Lobster);
-
 html {
     font-family: "PT Sans", Helvetica, Meiryo, Arial, sans-serif;
     font-size: 16px;
@@ -86,7 +85,7 @@ a.fixed-link {
 }
 
 .post-title {
-    margin-bottom: 1rem;
+    margin-bottom: 0; /* 1rem; */
     font-size: 1.5em;
     font-weight: bold;
 }

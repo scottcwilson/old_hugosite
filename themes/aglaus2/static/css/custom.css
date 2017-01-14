@@ -12,3 +12,18 @@ footer.copy a:hover {
   text-decoration: underline; 
 
 }
+
+h1, h2, h3,h4, h5, h6 {
+   letter-spacing: 0; 
+}
+h1, h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.post-title {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.summary {
+  margin-top: 2px;
+}
