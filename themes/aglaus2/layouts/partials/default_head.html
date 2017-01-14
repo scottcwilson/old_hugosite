@@ -9,12 +9,14 @@
             <h3 class="masthead-title">
                 <a href="{{ .Site.BaseURL }}" title="Home">{{ .Site.Title }}</a>
             </h3>
+<!--
             {{ $thisperma := .Permalink }}
             {{ range .Site.Pages }}
             {{ if eq .Type "page" }}
             <a href="{{ .Permalink }}" class="fixed-link">{{ .Title }}</a>
             {{ end }}
             {{ end }}
+-->
         <span align="right">
   {{ if or .Site.Author.github .Site.Author.twitter .Site.Author.facebook .Site.Author.googleplus .Site.Author.linkedin }}
 
