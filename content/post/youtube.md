@@ -2,7 +2,7 @@
 title = "My Videos"
 tech = "Quicktime"
 type = "post"
-weight = 60
+weight = 70
 eyecatch = "youtube.jpeg"
 date = "2017-01-02"
 +++

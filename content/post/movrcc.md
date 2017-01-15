@@ -2,7 +2,7 @@
 title = "My coffee cups"
 tech = "LAMP stack"
 type = "post"
-weight = 30
+weight = 80
 eyecatch = "movrcc.jpeg"
 date = "2017-01-02"
 +++

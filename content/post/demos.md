@@ -2,7 +2,7 @@
 title = "My Demo Sites"
 tech = "Zen Cart and osCommerce"
 type = "post"
-weight = 11
+weight = 30
 eyecatch = "demos.jpeg"
 date = "2017-01-02"
 +++

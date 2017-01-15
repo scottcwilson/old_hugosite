@@ -2,7 +2,7 @@
 title = "My blog"
 tech = "Wordpress"
 type = "post"
-weight = 50
+weight = 60
 eyecatch = "blog.jpeg"
 date = "2017-01-02"
 +++

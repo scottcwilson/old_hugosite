@@ -2,7 +2,7 @@
 title = "My store"
 tech = "Zen Cart"
 type = "post"
-weight = 11
+weight = 20
 eyecatch = "store.jpeg"
 date = "2017-01-02"
 +++
