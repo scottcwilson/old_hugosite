@@ -3,7 +3,7 @@ title = "My book group website"
 tech = "Jekyll"
 type = "post"
 weight = 50
-eyecatch = "jekyll_ort.jpeg"
+eyecatch = "ort.jpeg"
 lastmod = "2017-01-02"
 date = "2017-01-02"
 +++
