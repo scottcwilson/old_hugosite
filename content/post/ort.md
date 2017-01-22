@@ -27,7 +27,7 @@ I decided to completely rebuild the site using Amazon's API, so I could
 be guaranteed of getting good URLs.
 
 A long time ago, I did a proof of concept using 
-Postgres and Rails that you can see [on Heroku](http://tampabaybookgroup.herokuapp.com/), but this seemed like overkill for such a small site.  
-So I just had to choose between a couple of static site generators that
-I was familiar with - [Hugo] (https://gohugo.io/) and Jekyll.  
-I had always wanted to learn more Ruby, so I chose Jekyll.
+Postgres and Rails that you can see [on Heroku](http://tampabaybookgroup.herokuapp.com/), but this seemed like overkill for such a small site.  So I 
+just had to choose between a couple of static site generators that I was 
+familiar with - [Hugo] (https://gohugo.io/) and Jekyll.  I had always 
+wanted to learn more Ruby, so I chose Jekyll.
