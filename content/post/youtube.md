@@ -9,6 +9,6 @@ date = "2017-01-02"
 
 This is my YouTube channel.   Lots of videos about Zen Cart. 
 
-Live Site: <https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ>
+Live Site: <https://www.youtube.com/user/thatsoftwareguy>
 
 

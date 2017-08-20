@@ -13,6 +13,6 @@ Live Site: <http://vintagecups.com>
 
 
 ## Tools
-* [LAMP stack] (https://en.wikipedia.org/wiki/LAMP_(software_bundle\))
+* [LAMP stack] (https://en.wikipedia.org/wiki/LAMP_\(software_bundle\))
 
 
