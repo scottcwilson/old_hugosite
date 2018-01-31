@@ -4,8 +4,8 @@ tech = "Jekyll"
 type = "post"
 weight = 50
 eyecatch = "ort.jpeg"
-lastmod = "2017-01-02"
-date = "2017-01-02"
+lastmod = "2018-01-02"
+date = "2018-01-02"
 +++
 
 This is my book group website.  We have been reading together for 
@@ -30,4 +30,5 @@ A long time ago, I did a proof of concept using
 Postgres and Rails that you can see [on Heroku](http://tampabaybookgroup.herokuapp.com/), but this seemed like overkill for such a small site.  So I 
 just had to choose between a couple of static site generators that I was 
 familiar with - [Hugo] (https://gohugo.io/) and Jekyll.  I had always 
-wanted to learn more Ruby, so I chose Jekyll.
+wanted to learn more Ruby, and was already a [gem to query Amazon](https://github.com/tokzk/jekyll-amazon), 
+so I chose Jeykll.
